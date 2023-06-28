@@ -109,11 +109,11 @@
 /*discord transparency*//*roots*/ /*theme dark*/
   .theme-dark {
   --background-message-hover: rgba(255, 255, 255, 0.055);
-  --header-primary: #242424;
-  --header-secondary: #1d1c1c;
+  --header-primary: #fff;
+  --header-secondary: #b9bbbe;
   --text-normal: #dcddde;
   --text-muted: #9d9d9d;
-  --channels-default: #7e7e7e;
+  --channels-default: #8e9297;
   --interactive-normal: #b9bbbe;
   --interactive-hover: #dcddde;
   --interactive-active: #fff;
